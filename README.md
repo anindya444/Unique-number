@@ -25,3 +25,4 @@ int main() {
     cout<<result[0] << " "<<result[1];
          
 }
+out put= 1,4...
